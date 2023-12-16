@@ -1,0 +1,3 @@
+# Ignore the `src` directory, as only the static build output is needed
+
+src/
