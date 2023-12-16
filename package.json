@@ -34,7 +34,8 @@
     "typescript": "~5.1.3"
   },
   "ampt": {
-    "app": "ampt-angular"
+    "app": "angular",
+    "org": "andreacavalieri1206585"
   },
   "files": [
     "*"
